@@ -3,7 +3,9 @@
     "description": "",
     "dependencies": {
         "core": "*",
-        "radio": "*"
+        "radio": "*",
+        "weatherbit": "github:sparkfun/pxt-weather-bit#v0.0.15",
+        "ds18b20": "github:dfrobot/pxt-ds18b20#be0b0fc819d20741937615a547e784555abf9390"
     },
     "files": [
         "main.blocks",
